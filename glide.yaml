@@ -1,0 +1,22 @@
+import:
+- package: golang.org/x/mobile
+  repo: https://go.googlesource.com/mobile
+  vcs: git
+- package: golang.org/x/crypto
+  repo: https://go.googlesource.com/crypto
+  vcs: git
+- package: golang.org/x/net 
+  repo: https://go.googlesource.com/net
+  vcs: git
+- package: golang.org/x/tools
+  repo: https://go.googlesource.com/tools
+  vcs: git
+- package: golang.org/x/text
+  repo: https://go.googlesource.com/text
+  vcs: git
+- package: golang.org/x/image
+  repo: https://go.googlesource.com/image
+  vcs: git
+- package: golang.org/x/sys
+  repo: https://go.googlesource.com/sys
+  vcs: git
